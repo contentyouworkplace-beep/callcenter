@@ -126,7 +126,7 @@ export default function Home() {
                 href="#contact"
                 className="bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold px-5 py-2 rounded-lg transition"
               >
-                Get Started
+                Contact Us
               </a>
             </div>
           </div>
@@ -168,7 +168,7 @@ export default function Home() {
               href="#contact"
               className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-4 rounded-xl text-lg transition shadow-lg shadow-blue-500/25"
             >
-              Start Free Trial
+              Talk to Us
             </a>
             <a
               href="#features"
