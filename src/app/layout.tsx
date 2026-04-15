@@ -15,6 +15,14 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "GOPLNR SALES | Sales & Support Team Solutions",
   description: "Expand your sales & support team with highly qualified people. IVR systems, dedicated calling teams & customer support across 20+ countries.",
+  manifest: "/manifest.json",
+  themeColor: "#3b82f6",
+  openGraph: {
+    title: "GOPLNR SALES | Sales & Support Team Solutions",
+    description: "Expand your sales & support team with highly qualified people across 20+ countries.",
+    siteName: "GOPLNR SALES",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
